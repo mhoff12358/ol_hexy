@@ -1,4 +1,4 @@
 ol_hexy
 =======
 
-Networked hex grid.
+Networked hex grid
